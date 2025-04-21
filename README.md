@@ -1,4 +1,4 @@
-# GenAI-Powered-Risk-and-Financial-Analysis-of-Apple
+# GenAI-Powered-Risk-and-Financial-Analysis-of-Apple Q1 2025 10-Q 
 Leveraging Gemini as a foundational model to enhance the analysis and interpretation of complex financial data
 
 Key Highlights:
